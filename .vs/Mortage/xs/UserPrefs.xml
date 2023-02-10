@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{35EBC967-C8E1-4CA8-BDC2-7FD21E11D370}|Unit Tests">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MortagePlan PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mortage/MortagePlanTests.cs">
+    <Files>
+      <File FileName="Mortage/Program.cs" Line="9" Column="49" />
+      <File FileName="Mortage/MortagePlan.cs" Line="10" Column="39" />
+      <File FileName="Mortage/MortagePlanTests.cs" Line="24" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mortage" expanded="True">
+            <Node name="MortagePlan" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Mortage" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

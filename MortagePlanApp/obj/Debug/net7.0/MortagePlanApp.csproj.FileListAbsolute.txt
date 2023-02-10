@@ -1,0 +1,5 @@
+/Users/ngol4/Projects/Mortage/MortagePlanApp/obj/Debug/net7.0/MortagePlanApp.csproj.AssemblyReference.cache
+/Users/ngol4/Projects/Mortage/MortagePlanApp/obj/Debug/net7.0/MortagePlanApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngol4/Projects/Mortage/MortagePlanApp/obj/Debug/net7.0/MortagePlanApp.AssemblyInfoInputs.cache
+/Users/ngol4/Projects/Mortage/MortagePlanApp/obj/Debug/net7.0/MortagePlanApp.AssemblyInfo.cs
+/Users/ngol4/Projects/Mortage/MortagePlanApp/obj/Debug/net7.0/MortagePlanApp.csproj.CoreCompileInputs.cache
